@@ -10,8 +10,11 @@ Extremely useful for data entry.
 
 
 **How to use**
+
+
 **_To activate:_**
-Press `Numlock` key to disable Numlock (pressing number keys will no longer input numbers). This will allow you to start using the autohotkey.
+1) Press `Numlock` key to disable Numlock (pressing number keys will no longer input numbers). This will allow you to start using the autohotkey.
+
 
 **_To copy:_**
 1) Highlight the text you want to copy as you would do for "Ctrl+c".
@@ -19,7 +22,7 @@ Press `Numlock` key to disable Numlock (pressing number keys will no longer inpu
 _You can store up to 9 strings of text_
 
 **_To paste:_**
-Press the assigned numpad key to paste the text.
+1) Press the assigned numpad key to paste the text.
 
 **_To clear all_**
-Hold `Numpad 0` and press `del` in the numpad.
+1) Hold `Numpad 0` and press `del` in the numpad.

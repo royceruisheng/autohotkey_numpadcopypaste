@@ -3,6 +3,7 @@
 Allows you to store clips (like ctrl+c  and ctrl+v) to Num1 to Num9 when numlock is off.
 Extremely useful for data entry.
 
+
 **How to Setup:**
 1) Install AutoHotKey: https://www.autohotkey.com/download/
 
@@ -19,10 +20,23 @@ Extremely useful for data entry.
 **_To copy:_**
 1) Highlight the text you want to copy as you would do for "Ctrl+c".
 2) Hold `Numpad 0` and press any of the numpad: `Numpad 1`,`Numpad 2`, ..., `Numpad 9` to assign the highlighted text to the numpad key.
+
+
 _You can store up to 9 strings of text_
+
 
 **_To paste:_**
 1) Press the assigned numpad key to paste the text.
 
+
 **_To clear all_**
 1) Hold `Numpad 0` and press `del` in the numpad.
+
+
+**_To deactivate:_**
+1) Press `Numlock` key to activate Numlock (pressing number keys will now input numbers).
+
+
+I learnt AutoHotKey and wrote this (and modifying codes I found in forums) a few years back to aid me in inputting client data into CRM for my sales job. Hope this would help you too.
+
+**Cheers!**

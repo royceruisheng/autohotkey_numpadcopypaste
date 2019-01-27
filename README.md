@@ -1,10 +1,25 @@
-# autohotkey_numpadcopypaste
+# Copy & Paste text using Numpad
 
-Allows you to store clips (like ctrl+c  and ctrl+v) to Num1 to Num9 when numlock is off
+Allows you to store clips (like ctrl+c  and ctrl+v) to Num1 to Num9 when numlock is off.
+Extremely useful for data entry.
+
+**How to Setup:**
+1) Install AutoHotKey: https://www.autohotkey.com/download/
+
+2) Download the `NumpadCopyPaste.ahk` file and run the .ahk script file.
 
 
-To use:
-1) Install AutoHotKey:
-https://www.autohotkey.com/download/
+**How to use**
+**_To activate:_**
+Press `Numlock` key to disable Numlock (pressing number keys will no longer input numbers). This will allow you to start using the autohotkey.
 
-2) Download the .ahk file and run it.
+**_To copy:_**
+1) Highlight the text you want to copy as you would do for "Ctrl+c".
+2) Hold `Numpad 0` and press any of the numpad: `Numpad 1`,`Numpad 2`, ..., `Numpad 9` to assign the highlighted text to the numpad key.
+_You can store up to 9 strings of text_
+
+**_To paste:_**
+Press the assigned numpad key to paste the text.
+
+**_To clear all_**
+Hold `Numpad 0` and press `del` in the numpad.

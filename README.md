@@ -14,7 +14,7 @@ Extremely useful for data entry.
 
 
 **_To activate:_**
-1) Press `Numlock` key to disable Numlock (pressing number keys will no longer input numbers). This will allow you to start using the autohotkey.
+1) Press `Numlock` key to disable Numlock (pressing number keys will no longer input numbers). This will allow you to start using the AutoHotKey.
 
 
 **_To copy:_**
